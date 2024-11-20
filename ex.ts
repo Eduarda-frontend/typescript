@@ -14,6 +14,4 @@ class Saudacao {
 const Maria = new Saudacao('Maria');
 console.log(Maria.dizOi());
 
-const Elias = new Saudacao('Elias');
-console.log(Elias.dizOi());
 console.log(multiplica(10,2));
